@@ -1,0 +1,38 @@
+[
+  {
+    "id": "Bees",
+    "label": "Bees",
+    "description": "",
+    "folder": "assets/sections/Bees/",
+    "images": [
+      "_DSC1329 BEE.jpg"
+    ]
+  },
+  {
+    "id": "UV",
+    "label": "UV",
+    "description": "",
+    "folder": "assets/sections/UV/",
+    "images": [
+      "Beekeepers Pouto Beach.jpg"
+    ]
+  },
+  {
+    "id": "flowers",
+    "label": "flowers",
+    "description": "",
+    "folder": "assets/sections/flowers/",
+    "images": [
+      "_I8A7800 manuka flower.jpg"
+    ]
+  },
+  {
+    "id": "locations",
+    "label": "locations",
+    "description": "",
+    "folder": "assets/sections/locations/",
+    "images": [
+      "DSC_8531.jpg"
+    ]
+  }
+]

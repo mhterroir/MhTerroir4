@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Image Galleries</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <div class="title-row">
+      <h1><span class="dot"></span> IMAGE GALLERIES</h1>
+      <div class="subtitle">
+        Add folders under <code>assets/sections/</code> and run <code>node build-gallery.js</code>.
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <div class="toolbar">
+      <div class="breadcrumbs" id="breadcrumbs">
+        <span>Home</span>
+      </div>
+      <div class="view-toggle">
+        <span><strong>Mode</strong>: Sections → Gallery</span>
+      </div>
+    </div>
+
+    <section id="sectionsView" class="grid" aria-label="Section folders"></section>
+
+    <section id="galleryView" style="display:none;">
+      <div class="gallery-header">
+        <div class="pill" id="sectionInfo"></div>
+        <button id="backToSections" class="pill" type="button">
+          ← Back to sections
+        </button>
+      </div>
+      <div id="galleryGrid" class="gallery-grid"></div>
+      <div id="galleryEmpty" class="empty" style="display:none;">
+        No images found in this section folder.
+      </div>
+    </section>
+  </main>
+
+  <div class="overlay" id="lightbox" aria-hidden="true">
+    <div class="overlay-inner">
+      <div class="overlay-header">
+        <span class="info" id="lightboxInfo"></span>
+        <div class="overlay-actions">
+          <button type="button" id="downloadBtn">↓ Download</button>
+          <button type="button" id="closeLightbox">✕ Close</button>
+        </div>
+      </div>
+      <div class="overlay-body">
+        <img src="" alt="" id="lightboxImage" />
+        <div class="nav-arrows">
+          <button type="button" id="prevImg">‹</button>
+          <button type="button" id="nextImg">›</button>
+        </div>
+        <div class="overlay-counter" id="lightboxCounter"></div>
+      </div>
+    </div>
+  </div>
+
+  <script type="module" src="script.js"></script>
+</body>
+</html>
