@@ -5,7 +5,31 @@
     "description": "",
     "folder": "assets/sections/Bees/",
     "images": [
-      "_DSC1329 BEE.jpg"
+      "_DSC1329 BEE.jpg",
+      "_DSC1336-Honeybee on Manuka.jpg"
+    ]
+  },
+  {
+    "id": "Flowers",
+    "label": "Flowers",
+    "description": "",
+    "folder": "assets/sections/Flowers/",
+    "images": [
+      "Screenshot 2026-03-10 at 10.17.31 AM.png",
+      "Screenshot 2026-03-13 at 4.48.59 PM.png",
+      "_I8A7800 manuka flower.jpg"
+    ]
+  },
+  {
+    "id": "Locations",
+    "label": "Locations",
+    "description": "",
+    "folder": "assets/sections/Locations/",
+    "images": [
+      "DSC_8531.jpg",
+      "Pohuenui_1971.jpg",
+      "Screenshot 2026-03-04 at 9.19.43 PM.png",
+      "Screenshot 2026-03-13 at 4.47.23 PM.png"
     ]
   },
   {
@@ -15,24 +39,6 @@
     "folder": "assets/sections/UV/",
     "images": [
       "Beekeepers Pouto Beach.jpg"
-    ]
-  },
-  {
-    "id": "flowers",
-    "label": "flowers",
-    "description": "",
-    "folder": "assets/sections/flowers/",
-    "images": [
-      "_I8A7800 manuka flower.jpg"
-    ]
-  },
-  {
-    "id": "locations",
-    "label": "locations",
-    "description": "",
-    "folder": "assets/sections/locations/",
-    "images": [
-      "DSC_8531.jpg"
     ]
   }
 ]
