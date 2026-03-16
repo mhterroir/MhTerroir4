@@ -1,26 +1,5 @@
 [
   {
-    "id": "Bees",
-    "label": "Bees",
-    "description": "",
-    "folder": "assets/sections/Bees/",
-    "images": [
-      "_DSC1329 BEE.jpg",
-      "_DSC1336-Honeybee on Manuka.jpg"
-    ]
-  },
-  {
-    "id": "Flowers",
-    "label": "Flowers",
-    "description": "",
-    "folder": "assets/sections/Flowers/",
-    "images": [
-      "Screenshot 2026-03-10 at 10.17.31 AM.png",
-      "Screenshot 2026-03-13 at 4.48.59 PM.png",
-      "_I8A7800 manuka flower.jpg"
-    ]
-  },
-  {
     "id": "Locations",
     "label": "Locations",
     "description": "",
@@ -51,12 +30,33 @@
     ]
   },
   {
+    "id": "bees",
+    "label": "bees",
+    "description": "",
+    "folder": "assets/sections/bees/",
+    "images": [
+      "_DSC1329 BEE.jpg",
+      "_DSC1336-Honeybee on Manuka.jpg"
+    ]
+  },
+  {
     "id": "fejoas",
     "label": "fejoas",
     "description": "",
     "folder": "assets/sections/fejoas/",
     "images": [
       "Screenshot 2026-03-13 at 8.55.51 PM.png"
+    ]
+  },
+  {
+    "id": "untitled folder 2",
+    "label": "untitled folder 2",
+    "description": "",
+    "folder": "assets/sections/untitled folder 2/",
+    "images": [
+      "Screenshot 2026-03-10 at 10.17.31 AM.png",
+      "Screenshot 2026-03-13 at 4.48.59 PM.png",
+      "_I8A7800 manuka flower.jpg"
     ]
   }
 ]
