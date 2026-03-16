@@ -1,9 +1,9 @@
 [
   {
-    "id": "Locations",
-    "label": "Locations",
+    "id": "Ddvdfv",
+    "label": "Ddvdfv",
     "description": "",
-    "folder": "assets/sections/Locations/",
+    "folder": "assets/sections/Ddvdfv/",
     "images": [
       "DSC_8531.jpg",
       "Pohuenui_1971.jpg",
@@ -30,10 +30,10 @@
     ]
   },
   {
-    "id": "bees",
-    "label": "bees",
+    "id": "cdscdscds",
+    "label": "cdscdscds",
     "description": "",
-    "folder": "assets/sections/bees/",
+    "folder": "assets/sections/cdscdscds/",
     "images": [
       "_DSC1329 BEE.jpg",
       "_DSC1336-Honeybee on Manuka.jpg"
@@ -49,10 +49,10 @@
     ]
   },
   {
-    "id": "untitled folder 2",
-    "label": "untitled folder 2",
+    "id": "flower",
+    "label": "flower",
     "description": "",
-    "folder": "assets/sections/untitled folder 2/",
+    "folder": "assets/sections/flower/",
     "images": [
       "Screenshot 2026-03-10 at 10.17.31 AM.png",
       "Screenshot 2026-03-13 at 4.48.59 PM.png",
