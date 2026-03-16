@@ -30,13 +30,13 @@
     ]
   },
   {
-    "id": "cdscdscds",
-    "label": "cdscdscds",
+    "id": "bees",
+    "label": "bees",
     "description": "",
-    "folder": "assets/sections/cdscdscds/",
+    "folder": "assets/sections/bees/",
     "images": [
-      "_DSC1329 BEE.jpg",
-      "_DSC1336-Honeybee on Manuka.jpg"
+      "DSC1329 BEE.jpg",
+      "DSC1336-Honeybee on Manuka.jpg"
     ]
   },
   {
@@ -49,10 +49,10 @@
     ]
   },
   {
-    "id": "flower",
-    "label": "flower",
+    "id": "flowers",
+    "label": "flowers",
     "description": "",
-    "folder": "assets/sections/flower/",
+    "folder": "assets/sections/flowers/",
     "images": [
       "Screenshot 2026-03-10 at 10.17.31 AM.png",
       "Screenshot 2026-03-13 at 4.48.59 PM.png",
